@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./github-banner.png" alt="Luis Shagñay — Full Stack Engineer" width="100%" />
+# Hi, I'm Luis Shagñay 👋
+
+**`Ingeniero en TI`** · **`Full Stack Developer`** · **`Cloud & AI`**
 
 &nbsp;
 
