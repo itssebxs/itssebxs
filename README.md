@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://luisshagnay.vercel.app/github-banner.png" alt="Luis Shagñay — Full Stack Engineer" width="100%" />
+<img src="./github-banner.png" alt="Luis Shagñay — Full Stack Engineer" width="100%" />
 
 &nbsp;
 
@@ -158,6 +158,7 @@ Sistema que conecta abogados y clientes con dashboards por roles, gestión docum
 
 ## 🏆 Logros & Certificaciones
 
+<div align="center">
 <table>
 <tr><td>📜</td><td><b>Registro de Propiedad Intelectual — SIGECI</b></td><td>SENADI / UNACH</td><td><code>2025</code></td></tr>
 <tr><td>🥇</td><td><b>1.º Lugar Nacional — Hult Prize Ecuador</b></td><td>Hult Prize</td><td><code>2025</code></td></tr>
@@ -166,6 +167,7 @@ Sistema que conecta abogados y clientes con dashboards por roles, gestión docum
 <tr><td>🎓</td><td><b>Inspiring Study Conference</b></td><td>Google</td><td><code>2023</code></td></tr>
 <tr><td>📖</td><td><b>Certificación POO con C++ (40h)</b></td><td>IDIEI S.A.S.</td><td><code>2022</code></td></tr>
 </table>
+</div>
 
 ---
 
