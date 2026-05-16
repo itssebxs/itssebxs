@@ -6,10 +6,10 @@
 
 Creo soluciones digitales de alta calidad combinando ingeniería de software, arquitectura en la nube y diseño funcional.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itssebxs/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itssebxs)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593981417062)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissebastian2132@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itssebxs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itssebxs/)
+[![GitHub](https://img.shields.io/badge/GitHub-itssebxs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itssebxs)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-itssebxs-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593981417062)
+[![Email](https://img.shields.io/badge/Email-luissebastian2132@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissebastian2132@gmail.com)
 
 </div>
 
