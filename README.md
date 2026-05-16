@@ -1,6 +1,12 @@
-# Hi there, I'm Luis Shagñay! 👋
-
 <div align="center">
+
+# Luis *Shagñay*.
+
+**Ingeniero en TI · Desarrollador Full Stack · Ecuador**
+
+Creo soluciones digitales que combinan ingeniería y diseño.
+
+&nbsp;
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=c8b97a)](https://luisshagnay.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=c8b97a)](https://www.linkedin.com/in/itssebxs/)
@@ -9,65 +15,121 @@
 
 </div>
 
----
-
-Soy **Ingeniero en Tecnologías de la Información** graduado en la Universidad Nacional de Chimborazo (UNACH). Me especializo en desarrollo backend, arquitectura en la nube (Cloud) y soluciones Full‑Stack robustas para la web y dispositivos móviles.
-
-Cuento con experiencia probada en el diseño de bases de datos optimizadas, desarrollo de APIs RESTful y automatización de despliegues (DevOps). Además, integro técnicas de **Machine Learning y Analítica de Datos** para crear paneles de decisión inteligentes y soluciones de alto impacto.
+&nbsp;
 
 ---
 
-## 🚀 ÁREAS DE ESPECIALIZACIÓN
+&nbsp;
 
-- **Desarrollo Full‑Stack**: React, Next.js, Angular, Tailwind CSS, HTML / CSS, Node.js, Express, Flask.
-- **Desarrollo Móvil**: Flutter, Dart, Android, Supabase.
-- **Cloud & DevOps**: AWS (EC2, S3, RDS), Azure (App Services), Vercel, Render, CI/CD con GitHub Actions.
-- **Inteligencia Artificial & Datos**: Machine Learning, Pandas, NumPy, Scikit‑Learn, visualización de datos.
-- **Propiedad Intelectual & Innovación**: Software registrado en SENADI y ganador de la **Hult Prize** (local y nacional).
+Ingeniero en Tecnologías de la Información graduado en la **Universidad Nacional de Chimborazo (UNACH)**. Me especializo en construir soluciones Full Stack robustas — desde interfaces modernas con React y Flutter, hasta backends escalables con Python y Node.js, desplegados en AWS y Azure con pipelines CI/CD.
 
----
+Integro técnicas de **Machine Learning** y **Analítica de Datos** para transformar información en decisiones. He creado software con registro de propiedad intelectual (**SENADI**) y liderado proyectos galardonados internacionalmente (**Hult Prize 2025**).
 
-## 💼 PROYECTOS DESTACADOS
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| **SIGECI** | Sistema de gestión de cuestionarios de investigación con registro de derechos de autor (SENADI). | Python, Flask, React, PostgreSQL |
-| **SIGNUS Startup** | Plataforma de innovación social ganadora del 1.º lugar nacional en Hult Prize 2025. | Flutter, Dart, PostgreSQL, Python |
-| **ARGOS** | App móvil de seguridad comunitaria con geolocalización y alertas en tiempo real. | Flutter, Supabase, Firebase, APIs REST |
-| **Plataforma de Tutorías** | Herramienta académica con modelos predictivos de ML para anticipar deserción estudiantil. | Python, Scikit‑Learn, Pandas, PostgreSQL, Node.js |
+&nbsp;
 
 ---
 
-## 🏆 LOGROS RELEVANTES
+&nbsp;
 
-- 📜 **Registro de Propiedad Intelectual (SENADI)** – *SIGECI* (2025)
-- 🥇 **1.º Lugar Nacional – Hult Prize Ecuador** (2025)
-- 🥇 **1.º Lugar Local – Hult Prize UNACH** (2025)
-- 🏅 **Innovasoft UNACH** – Reconocimiento a la innovación (2024)
-- 🎓 **Google Study Conference** – Beca y participación (2023)
-- 📖 **Certificación en Programación Orientada a Objetos (C++)** – IDIEI (2022)
+### Proyectos
+
+&nbsp;
+
+**SIGECI** · *Software Registrado (SENADI)*
+> Sistema de Gestión de Cuestionarios de Investigación para la UNACH. Arquitectura escalable con registro oficial de derechos de autor.
+>
+> `Python` `Flask` `PostgreSQL` `React`
+
+&nbsp;
+
+**SIGNUS Startup** · *Ganador Hult Prize 2025*
+> Plataforma de innovación social galardonada con el 1.º lugar local y nacional. Desarrollo del prototipo MVP y versión beta oficial.
+>
+> `Flutter` `Dart` `PostgreSQL` `Python`
+
+&nbsp;
+
+**ARGOS** · *App de Seguridad Comunitaria*
+> Aplicación móvil en tiempo real con geolocalización, alertas de emergencia y monitoreo de zonas de riesgo.
+>
+> `Flutter` `Supabase` `Firebase` `APIs REST`
+
+&nbsp;
+
+**Sistema de Tutorías Académicas** · *Tesis de Ingeniería*
+> Plataforma multirol con Machine Learning para predicción de rendimiento estudiantil y Cuadro de Mando Integral para coordinadores.
+>
+> `Python` `Scikit-Learn` `Pandas` `PostgreSQL` `TypeScript`
+
+&nbsp;
+
+**SupaMalla** · *Plataforma de Inteligencia Académica*
+> Aplicación móvil para la gestión visual de mallas curriculares, notificaciones inteligentes y análisis de trayectoria académica.
+>
+> `Flutter` `Supabase` `PostgreSQL`
+
+&nbsp;
+
+**Nieto App** · *Plataforma de Gestión Legal*
+> Sistema que conecta abogados y clientes con dashboards por roles, gestión documental y comunicación en tiempo real.
+>
+> `Flutter` `Supabase` `PostgreSQL`
+
+&nbsp;
 
 ---
 
-## 🛠️ STACK TECNOLÓGICO
+&nbsp;
 
-```
-Lenguajes          :: Python, JavaScript, TypeScript, Java, C++, Dart
-Frontend           :: React, Next.js, Angular, Tailwind CSS, HTML5 / CSS3
-Backend & APIs     :: Node.js, Express, Flask, RESTful APIs, Microservicios
-Móvil              :: Flutter, Supabase, Android
-Bases de Datos     :: PostgreSQL, Supabase, MySQL, SQL Server, MongoDB
-Cloud & DevOps     :: AWS, Azure, Vercel, Render, GitHub Actions
-Datos & ML         :: Pandas, NumPy, Scikit‑Learn, Machine Learning
-Herramientas       :: Git, Docker, Postman, Figma, Linux
-```
+### Logros
+
+&nbsp;
+
+| Año | Reconocimiento | Institución |
+|:---:|----------------|-------------|
+| 2025 | 📜 Registro de Propiedad Intelectual — *SIGECI* | SENADI / UNACH |
+| 2025 | 🥇 1.º Lugar Nacional — Hult Prize Ecuador | Hult Prize |
+| 2025 | 🥇 1.º Lugar Local — Hult Prize UNACH | UNACH |
+| 2024 | 🏅 Reconocimiento a la Innovación — Innovasoft | UNACH |
+| 2023 | 🎓 Inspiring Study Conference | Google |
+| 2022 | 📖 Certificación POO con C++ (40h) | IDIEI S.A.S. |
+
+&nbsp;
 
 ---
+
+&nbsp;
+
+### Stack
+
+&nbsp;
+
+**Lenguajes** · Python · JavaScript · TypeScript · Java · C++ · Dart
+
+**Frontend** · React · Next.js · Angular · Tailwind CSS · HTML5 / CSS3
+
+**Backend** · Node.js · Express · Flask · APIs REST · Microservicios
+
+**Móvil** · Flutter · Dart · Android · Supabase
+
+**Bases de Datos** · PostgreSQL · MySQL · SQL Server · MongoDB · Supabase
+
+**Cloud & DevOps** · AWS · Azure · Vercel · Render · GitHub Actions · CI/CD
+
+**Datos & ML** · Machine Learning · Pandas · NumPy · Scikit-Learn
+
+**Herramientas** · Git · Docker · Postman · Figma · Linux
+
+&nbsp;
+
+---
+
+&nbsp;
 
 <div align="center">
 
-**¿Tienes un proyecto en mente o buscas un colaborador técnico de alto nivel?**
+*Disponible para trabajar.*
 
-[💬 Escríbeme por WhatsApp](https://wa.me/593981417062) · [📧 Contacto por Email](mailto:luissebastian2132@gmail.com)
+**[Ver Portafolio Completo →](https://luisshagnay.vercel.app/)**
 
 </div>
