@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Luis Shagñay 👋
+# Hi, I'm Luis Shagñay
 
 **`Ingeniero en TI`** · **`Full Stack Developer`** · **`Cloud & AI`**
 
