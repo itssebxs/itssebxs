@@ -163,7 +163,7 @@ Sistema que conecta abogados y clientes con dashboards por roles, gestión docum
 <div align="center">
 <table>
 <tr><td>📜</td><td><b>Registro de Propiedad Intelectual — SIGECI</b></td><td>SENADI / UNACH</td><td><code>2025</code></td></tr>
-<tr><td>🥇</td><td><b>1.º Lugar Nacional — Hult Prize Ecuador</b></td><td>Hult Prize</td><td><code>2025</code></td></tr>
+<tr><td>🥇</td><td><b>Certificado de Participación — Hult Prize Ecuador</b></td><td>Hult Prize</td><td><code>2025</code></td></tr>
 <tr><td>🥇</td><td><b>1.º Lugar Local — Hult Prize UNACH</b></td><td>UNACH</td><td><code>2025</code></td></tr>
 <tr><td>🏅</td><td><b>Reconocimiento a la Innovación — Innovasoft</b></td><td>UNACH</td><td><code>2024</code></td></tr>
 <tr><td>🎓</td><td><b>Inspiring Study Conference</b></td><td>Google</td><td><code>2023</code></td></tr>
