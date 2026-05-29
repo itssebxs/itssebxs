@@ -23,7 +23,7 @@
 
 Soy **Ingeniero en Tecnologías de la Información** graduado en la **Universidad Nacional de Chimborazo (UNACH)**. Me especializo en construir soluciones Full Stack robustas desde interfaces modernas con React y Flutter, hasta backends escalables con Python y Node.js, desplegados en la nube con pipelines CI/CD.
 
-Integro técnicas de **Machine Learning** y **Analítica de Datos** para transformar información en decisiones estratégicas. He creado software con registro oficial de propiedad intelectual (**SENADI**) y liderado proyectos galardonados internacionalmente (**Hult Prize 2025**).
+Integro técnicas de **Machine Learning** y **Analítica de Datos** para transformar información en decisiones estratégicas. He creado software con registro oficial de propiedad intelectual (**SENADI**) y liderado proyectos galardonados (**Hult Prize (Unach) 2025**).
 
 ---
 
