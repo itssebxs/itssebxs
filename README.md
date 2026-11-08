@@ -57,3 +57,67 @@ I build APIs, web platforms and mobile apps end to end — from database design 
 - ✉️ Email: luissebastian1829@gmail.com
 
 *Available to collaborate on remote projects worldwide.*
+
+---
+
+# 🇪🇸 Versión en español
+
+# Hola, soy Luis Shagñay 👋
+
+**Desarrollador Backend / Full Stack** · Ingeniero en TI · Riobamba, Ecuador 🌎
+
+Construyo APIs, plataformas web y aplicaciones móviles de principio a fin: desde el diseño de la base de datos y los servicios backend hasta la interfaz que la gente usa. Trabajo de forma remota con clientes y equipos, y entrego productos reales: mi propio producto, **Aether**, está en beta pública.
+
+🔎 **Abierto a oportunidades remotas** — roles backend, full stack y móviles.
+
+---
+
+## 🚀 Proyecto destacado — Aether
+
+**Aether** convierte tu celular en un compañero en tiempo real para tu PC: control remoto, trackpad y teclado, accesos directos y macros personalizables, y visualización de pantalla en ambas direcciones.
+
+- 🌐 **Prueba la beta:** [aetherbeta.vercel.app](https://aetherbeta.vercel.app)
+- 📦 **Versiones y descargas:** [github.com/itssebxs/Aether-Landing](https://github.com/itssebxs/Aether-Landing/releases)
+- 💻 Construido y mantenido en solitario, con lanzamientos públicos desde abril de 2026.
+
+---
+
+## 🛠️ Stack técnico
+
+- **Lenguajes:** Python · TypeScript · JavaScript · Java
+- **Backend:** Node.js · Flask · APIs REST
+- **Frontend:** Angular · React · Next.js
+- **Móvil:** Flutter
+- **Bases de datos:** PostgreSQL · Supabase
+- **Nube y DevOps:** AWS · Azure · Vercel · Render · CI/CD
+
+---
+
+## 💼 Proyectos seleccionados
+
+| Proyecto | Qué es |
+|---|---|
+| **SIGECI** | Sistema de gestión de cuestionarios de investigación construido para la UNACH (Universidad Nacional de Chimborazo), con **registro oficial de software ante el SENADI**. Python · Flask · React · PostgreSQL |
+| **SIGNUS** | Iniciativa de innovación social — aporté el primer prototipo y la versión beta; el equipo obtuvo reconocimiento en los concursos **Hult Prize e INNOVASOFT 2025**. Producto · MVP |
+| **ARGOS** | App de seguridad comunitaria con geolocalización en tiempo real, alertas de emergencia y monitoreo de zonas de riesgo. [Código →](https://github.com/itssebxs/Argos_mobile) · [Sitio en vivo →](https://argospage.vercel.app) · Flutter · Supabase |
+| **Plataforma de tutorías académicas** | Plataforma multirol con modelos predictivos de Machine Learning y un tablero de Balanced Scorecard para decisiones basadas en datos. Python · Scikit-Learn · Pandas · PostgreSQL |
+| **SupaMalla** | Plataforma académica para la gestión visual de mallas curriculares, notificaciones inteligentes y análisis de la trayectoria estudiantil. [Código →](https://github.com/itssebxs/SupaMalla) · Flutter · Supabase · PostgreSQL |
+| **Nieto App** | Plataforma legal que conecta abogados y clientes: paneles por rol, gestión documental y comunicación en tiempo real. Flutter · Supabase · PostgreSQL |
+
+---
+
+## 🏆 Logros
+
+- 📜 **Registro de software (PI)** — SIGECI, SENADI / UNACH, 2025
+- 🥇 **Primer lugar** — Hult Prize UNACH, 2025
+- 🏅 **Reconocimiento a la innovación** — Innovasoft, UNACH, 2024
+
+---
+
+## 📫 Hablemos
+
+- 🌐 Portafolio: [luisshagnay.vercel.app](https://luisshagnay.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/itssebxs](https://www.linkedin.com/in/itssebxs)
+- ✉️ Correo: luissebastian1829@gmail.com
+
+*Disponible para colaborar en proyectos remotos en todo el mundo.*
