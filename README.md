@@ -4,8 +4,6 @@
 
 I build APIs, web platforms and mobile apps end to end — from database design and backend services to the interface people actually use. I work remotely with clients and teams, and I ship: my own product, **Aether**, is in public beta.
 
-🔎 **Open to remote opportunities** — backend, full stack and mobile roles.
-
 ---
 
 ## 🚀 Featured project — Aether
@@ -56,7 +54,6 @@ I build APIs, web platforms and mobile apps end to end — from database design 
 - 💼 LinkedIn: [linkedin.com/in/itssebxs](https://www.linkedin.com/in/itssebxs)
 - ✉️ Email: luissebastian1829@gmail.com
 
-*Available to collaborate on remote projects worldwide.*
 
 ---
 
@@ -67,8 +64,6 @@ I build APIs, web platforms and mobile apps end to end — from database design 
 **Desarrollador Backend / Full Stack** · Ingeniero en TI · Riobamba, Ecuador 🌎
 
 Construyo APIs, plataformas web y aplicaciones móviles de principio a fin: desde el diseño de la base de datos y los servicios backend hasta la interfaz que la gente usa. Trabajo de forma remota con clientes y equipos, y entrego productos reales: mi propio producto, **Aether**, está en beta pública.
-
-🔎 **Abierto a oportunidades remotas** — roles backend, full stack y móviles.
 
 ---
 
@@ -120,4 +115,3 @@ Construyo APIs, plataformas web y aplicaciones móviles de principio a fin: desd
 - 💼 LinkedIn: [linkedin.com/in/itssebxs](https://www.linkedin.com/in/itssebxs)
 - ✉️ Correo: luissebastian1829@gmail.com
 
-*Disponible para colaborar en proyectos remotos en todo el mundo.*
